@@ -1,5 +1,5 @@
 <!--hide-->
-# Probabilidad en Python - Guía paso a paso
+# Probabilidad en Python - Guía paso a paso para que sea exitoso
 <!--endhide-->
 
 - Resolver los problemas utilizando probabilidad y Python.
